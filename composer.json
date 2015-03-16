@@ -1,0 +1,18 @@
+{
+    "name": "songlipeng2003/yii2-mongodb-nested-sets",
+    "description": "Yii2 Nested Set with mongodb",
+    "homepage": "https://github.com/songlipeng2003/yii2-mongodb-nested-sets",
+    "keywords": ["yii2", "nested-set", "mongodb-nested-set", "mongo", "mongodb"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-mongodb": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "songlipeng2003\\nestedsets\\": ""
+        }
+    }
+}
